@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Nirbhay Singh.
 I'm a DevOps Engineer, I automate Build and Deployment process of Websites and Applications. I ensure Websites and Applications are 100% available and ready to use.
+
+```
 ![](https://komarev.com/ghpvc/?username=nirbhaysingh281)
+```
